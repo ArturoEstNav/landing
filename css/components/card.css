@@ -1,0 +1,24 @@
+.card {
+  height: 255px;
+  /*width: 220px;*/
+  box-shadow: 2px 2px 5px rgba(30, 30, 30, 0.3 );
+  display: inline-block;
+  box-sizing: border-box;
+  flex-basis: 30%;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card img{
+  width: 130px;
+}
+
+.container-cards {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+}

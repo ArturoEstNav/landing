@@ -1,0 +1,17 @@
+footer {
+  background-color: #2c2b2b;
+  margin: 64px 0 0 0;
+  height: 200px;
+  overflow: hidden;
+  padding: 80px 0;
+  color: #fff;
+}
+
+.footer-links {
+  font-size: 25pt;
+  display: inline-block;
+  color: #1FCF6F;
+  margin: 0 16px 32px 16px;
+
+}
+
